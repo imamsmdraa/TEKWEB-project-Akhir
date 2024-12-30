@@ -1,0 +1,272 @@
+[
+  {
+    "id": 1,
+    "title": "Atlantic Salmon",
+    "description": "A species of ray-finned fish in the family Salmonidae.",
+    "image": "salmon.png",
+    "top": "100px",
+    "left": "100px",
+    "width":"20%",
+    "read": false
+  },
+  {
+    "id": 2,
+    "title": "Lumba-Lumba",
+    "description": "Marine mammals closely related to whales and porpoises.",
+    "image": "lumba-lumba.png",
+    "top": "500px",
+    "left": "300px",
+    "width":"40%",
+    "read": false
+  },
+  {
+    "id": 3,
+    "title": "Trumbu Karang",
+    "description": "Coral reefs are diverse underwater ecosystems.",
+    "image": "trumbu-karang.png",
+    "top": "100px",
+    "width":"20%",
+    "left": "800px",
+    "read": false
+  },
+  {
+    "id": 4,
+    "title": "angler fish",
+    "description": "Anglerfish betina memiliki pancing bercahaya yang memanfaatkan bakteri bioluminesensi untuk memikat mangsa di kegelapan laut dalam. Uniknya, anglerfish jantan sangat kecil dan akan menempel pada tubuh betina sebagai parasit untuk bertahan hidup.",
+    "image" : "Anglerfish.png",
+    "top": "2500px",
+    "width":"40%",
+    "left": "350px",
+    "read": false
+  }
+  ,   
+  
+  {
+    "id": 5,
+    "title": "Hatchet fish",
+    "description": "Anglerfish betina memiliki pancing bercahaya yang memanfaatkan bakteri bioluminesensi untuk memikat mangsa di kegelapan laut dalam. Uniknya, anglerfish jantan sangat kecil dan akan menempel pada tubuh betina sebagai parasit untuk bertahan hidup.",
+    "image" : "Hatchetfish.png",
+    "top": "1200px",
+    "left": "40%",
+    "width":"40%",
+    "read": false
+  },
+  {
+    "id": 6,
+    "title": "Lantern fish",
+    "description": "Organ bercahaya mereka digunakan tidak hanya untuk kamuflase, tetapi juga untuk komunikasi dan menarik pasangan. Hewan ini menjadi kunci rantai makanan, menjadi mangsa penting bagi banyak predator laut.",
+    "image" : "Lanternfish.png",
+    "top": "1400px",
+    "left": "100px",
+    "width":"40%",
+    "read": false
+  }
+  ,
+  {
+    "id": 7,
+    "title": "Squid Fish",
+    "description": "Memiliki membran seperti jubah antara lengannya, cumi ini dapat mengeluarkan cairan bercahaya untuk mengalihkan perhatian predator. Berbeda dari cumi lainnya, ia tidak berburu aktif, melainkan mengonsumsi detritus laut.",
+    "image" : "Squid-Vampir.png",
+    "top": "1500px",
+    "width":"40%",
+    "left": "900px",
+    "read": false
+  }
+  ,
+  {
+    "id": 8,
+    "title": "Barreleye Fish",
+    "description": "Kepala transparannya memungkinkan barreleye fish melihat ke segala arah, terutama ke atas untuk mendeteksi bayangan mangsa. Matanya yang tubular dilengkapi pelindung cahaya untuk memfilter sinar terang dari permukaan.",
+    "image" : "Barreleye-Fish.png",
+    "top": "3000px",
+    "left": "100px",
+    "width":"40%",
+    "read": false
+  },
+  {
+    "id": 9,
+    "title": "Sabretooth Fish",
+    "description": "Memiliki gigi besar dan tajam yang memungkinkan mereka menangkap mangsa yang lebih besar dari ukuran tubuhnya sendiri. Giginya yang panjang tidak bisa disembunyikan, memberi mereka tampilan yang menakutkan.",
+    "image" : "Sabretooth-Fish.png",
+    "top": "2600px",
+    "left": "1400px",
+    "width":"40%",
+    "read": false
+  }
+  ,
+  {
+    "id": 10,
+    "title": "Brittle Start",
+    "description": "Hewan ini sangat sensitif terhadap perubahan lingkungan. Lengan fleksibelnya dapat terputus dengan mudah sebagai mekanisme pertahanan, dan ia mampu meregenerasi bagian tubuhnya.",
+    "image" : "BrittleStar.png",
+    "top": "2000px",
+    "width":"40%",
+    "left": "300px",
+    "read": false
+  }
+  ,
+  {
+    "id": 11,
+    "title": "Jellynose Fish",
+    "description": "Anglerfish betina memiliki pancing bercahaya yang memanfaatkan bakteri bioluminesensi untuk memikat mangsa di kegelapan laut dalam. Uniknya, anglerfish jantan sangat kecil dan akan menempel pada tubuh betina sebagai parasit untuk bertahan hidup.",
+    "image" : "Jelly noise fish.png",
+    "top": "3000px",
+    "width":"40%",
+    "left": "1000px",
+    "read": false
+  },
+  {
+    "id": 12,
+    "title": "Ctenophore (Comb Jelly)",
+    "description": "Organ bercahaya mereka digunakan tidak hanya untuk kamuflase, tetapi juga untuk komunikasi dan menarik pasangan. Hewan ini menjadi kunci rantai makanan, menjadi mangsa penting bagi banyak predator laut.",
+    "image" : "Ctenophore (Comb Jelly).png",
+    "top": "1700px",
+    "width":"40%",
+    "left": "1500px",
+    "read": false
+  }
+  ,
+  {
+    "id": 13,
+    "title": "Snipe Eel",
+    "description": "Memiliki membran seperti jubah antara lengannya, cumi ini dapat mengeluarkan cairan bercahaya untuk mengalihkan perhatian predator. Berbeda dari cumi lainnya, ia tidak berburu aktif, melainkan mengonsumsi detritus laut.",
+    "image" : "Snipe-Eel.png",
+    "top": "2000px",
+    "left": "1000px",
+    "width":"40%",
+    "read": false
+  }
+  ,
+  {
+    "id": 14,
+    "title": "Black Dragon Fish",
+    "description": "Ikan berbentuk panjang dengan tubuh gelap, dilengkapi organ bioluminesen yang memancarkan cahaya merah untuk berburu dan berkomunikasi.(Betina memiliki tubuh besar dan berburu aktif, sedangkan jantan berukuran jauh lebih kecil dan hanya bertugas reproduksi. Mereka bisa memancarkan cahaya merah, unik karena banyak hewan laut dalam hanya menghasilkan cahaya biru.)",
+    "image" : "blackdragonfish.png",
+    "top": "3300px",
+    "width":"100%",
+    "left": "1000px",
+    "read": false
+  },
+  {
+    "id": 15,
+    "title": "Atolla Jellyfish",
+    "description": "Ubur-ubur dengan tubuh transparan dan bercahaya, menghasilkan cahaya berbentuk lingkaran saat terganggu untuk mengalihkan perhatian predator. (Dijuluki ubur-ubur alarm karena mampu memancarkan cahaya bercahaya terang yang menarik predator lain untuk mengalihkan perhatian dari dirinya sendiri.)",
+    "image" : "Atolla Jellyfish.png",
+    "top": "3700px",
+    "width":"40%",
+    "left": "700px",
+    "read": false
+  },
+  {
+    "id": 16,
+    "title": "Giant Squid",
+    "description": "Cumi-cumi besar dengan panjang tubuh yang bisa mencapai 13 meter untuk betina dan 10 meter untuk jantan. Hidup di zona bathyal dengan kemampuan menyelam hingga 1000 meter. Keunikan: Memiliki mata terbesar di dunia hewan, berdiameter hingga 30 cm, yang membantu mereka mendeteksi mangsa dalam kegelapan total. Hewan ini jarang terlihat dan menjadi subjek banyak mitos laut.",
+    "image" : "Giant-Squid.png",
+    "top": "4000px",
+    "width":"40%",
+    "left": "100px",
+    "read": false
+  }
+  ,
+  {
+    "id": 17,
+    "title": "Black Swallower",
+    "description": "Deskripsi: Ikan kecil berbentuk silinder dengan panjang tubuh sekitar 25 cm, terkenal karena mulutnya yang sangat elastis. Keunikan: Mampu menelan mangsa yang ukurannya lebih besar dari tubuhnya sendiri, hingga 10 kali berat tubuhnya. Kemampuan ini memungkinkan mereka bertahan hidup di habitat dengan sumber makanan yang terbatas.",
+    "image" : "Black Swallower.png",
+    "top": "4200px",
+    "width":"40%",
+    "left": "1000px",
+    "read": false
+  },
+  {
+    "id": 18,
+    "title": "Dumbo Octopus",
+    "description": "Deskripsi: Gurita kecil yang lucu dengan sirip seperti telinga di atas tubuhnya, menyerupai karakter Dumbo dari Disney. Hidup di kedalaman 800 hingga lebih dari 4000 meter. Keunikan: Bergerak dengan cara mengepakkan (telinga) siripnya, yang membuatnya terlihat seperti sedang terbang di air. Gurita ini jarang bertemu predator karena hidup di habitat ekstrem.",
+    "image" : "Dumbo Octopus.png",
+    "top": "4400px",
+    "width":"40%",
+    "left": "300px",
+    "read": false
+  },
+  {
+    "id": 19,
+    "title": "Viper Fish",
+    "description": "Predator dengan tubuh memanjang sekitar 30 cm dan gigi besar yang menonjol dari mulutnya, hidup di perairan tropis pada kedalaman 800 hingga 1000 meter. Keunikan: Menggunakan organ bioluminesen di tubuhnya untuk menarik mangsa. Giginya yang besar bahkan tidak muat di dalam mulutnya, memberikan penampilan yang sangat menakutkan.",
+    "image" : "Viperfish.png",
+    "top": "4800px",
+    "width":"40%",
+    "left": "750px",
+    "read": false
+  },
+  {
+    "id": 20,
+    "title": "Pelican Eel",
+    "description": "Belut dengan mulut besar berbentuk kantung seperti pelikan, tubuh ramping, dan panjang sekitar 1 meter. Keunikan: Mulutnya yang besar dapat membesar seperti balon, memungkinkan mereka memangsa ikan atau hewan lain yang lebih besar dari tubuhnya sendiri. Memiliki ekor bercahaya yang digunakan untuk menarik mangsa di kegelapan.",
+    "image" : "Pelican Eel.png",
+    "top": "5100px",
+    "width":"40%",
+    "left": "400px",
+    "read": false
+  },
+  {
+    "id": 15,
+    "title": "Stoplight Loosejaw",
+    "description": "Ikan kecil dengan rahang bawah yang panjang dan organ bioluminesen merah serta hijau di tubuhnya.Keunikan: Satu-satunya ikan laut dalam yang memancarkan cahaya merah, memungkinkan mereka untuk melihat mangsa tanpa terdeteksi oleh hewan lain.",
+    "image" : "Stoplight Loosejaw.png",
+    "top": "3700px",
+    "width":"40%",
+    "left": "700px",
+    "read": false
+  },
+  {
+    "id": 16,
+    "title": "Deep Sea Anglerfish",
+    "description": "Deskripsi: Ikan dengan tubuh kecil dan antena bercahaya di atas kepala, digunakan untuk menarik mangsa di laut dalam. Keunikan: Betina jauh lebih besar dari jantan, yang berukuran kecil dan hidup sebagai parasit menempel pada tubuh betina untuk berkembang biak.",
+    "image" : "Deep Sea Anglerfish.png",
+    "top": "4000px",
+    "width":"40%",
+    "left": "100px",
+    "read": false
+  }
+  ,
+  {
+    "id": 17,
+    "title": "Goblin Shark",
+    "description": "Deskripsi: Ikan kecil berbentuk silinder dengan panjang tubuh sekitar 25 cm, terkenal karena mulutnya yang sangat elastis. Keunikan: Mampu menelan mangsa yang ukurannya lebih besar dari tubuhnya sendiri, hingga 10 kali berat tubuhnya. Kemampuan ini memungkinkan mereka bertahan hidup di habitat dengan sumber makanan yang terbatas.",
+    "image" : "Goblin Shark.png",
+    "top": "4200px",
+    "width":"40%",
+    "left": "1000px",
+    "read": false
+  },
+  {
+    "id": 18,
+    "title": "Glass Squid",
+    "description": "Deskripsi: Cumi-cumi transparan dengan tubuh seperti kantong kaca yang hampir tidak terlihat di kedalaman laut antara 1000–1200 meter. Keunikan: Tubuh transparannya membantu menyamarkan diri dari predator. Beberapa spesies memiliki organ bioluminesen yang berfungsi untuk menarik mangsa atau membingungkan musuh.",
+    "image" : "Glass Squid.png",
+    "top": "4400px",
+    "width":"40%",
+    "left": "300px",
+    "read": false
+  },
+  {
+    "id": 19,
+    "title": "Frilled Shark",
+    "description": "Hiu purba dengan tubuh panjang menyerupai belut, hidup di perairan dalam pada kedalaman hingga 1200 meter.Keunikan: Memiliki 300 gigi kecil berbentuk seperti jarum yang tersusun dalam barisan rapi, memungkinkan mereka menangkap dan menahan mangsa yang licin seperti cumi-cumi.",
+    "image" : "Frilled Shark.png",
+    "top": "4800px",
+    "width":"40%",
+    "left": "750px",
+    "read": false
+  },
+  {
+    "id": 20,
+    "title": "Hirondellea gigas",
+    "description": "Deskripsi: Sebuah amfipoda kecil berbentuk udang yang hidup di laut dalam, sering ditemukan di kedalaman hingga 1200 meter.   Keunikan: Hirondellea gigas memiliki kemampuan untuk bertahan dalam tekanan yang sangat tinggi dan memakan sisa-sisa organik yang tenggelam. Mereka juga memiliki enzim khusus yang membantu memecah bahan organik kompleks di lingkungan laut dalam.",
+    "image" : "Hirondellea gigas.png",
+    "top": "5100px",
+    "width":"40%",
+    "left": "400px",
+    "read": false
+  }
+]
